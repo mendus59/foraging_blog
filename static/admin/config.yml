@@ -14,5 +14,7 @@ collections:
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
+      - { name: trip, label: Trip}
+      - { name: destination, label: Destination, widget: map}
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
