@@ -1,7 +1,7 @@
 ---
 path: /blog/olympic_peninsula_1
 date: 2021-03-26T20:30:00.000Z
-trip: Olympic Peninsula Camping 1/3
+trip: https://www.google.com/maps/dir/Bellevue,+WA/South+Fork+Hoh+Campground,+Forks,+WA/@47.5431432,-123.8527627,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x548e6b681e9fdb55:0x2b853af333180489!2m2!1d-123.995623!2d47.806502!3e0
 destination: '{"type":"Point","coordinates":[-123.9962161,47.8064535]}'
 title: Olympic Peninsula Camping Day 1/3
 ---
